@@ -1,0 +1,19 @@
+{
+  "name": "graphql-express-mongodb-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalana1995/Graphql-Express-mongodb-jwt.git"
+  },
+  "author": "chalana kalpitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalana1995/Graphql-Express-mongodb-jwt/issues"
+  },
+  "homepage": "https://github.com/chalana1995/Graphql-Express-mongodb-jwt#readme"
+}
